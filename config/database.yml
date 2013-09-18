@@ -54,7 +54,7 @@ test:
 production:
   adapter: postgresql
   encoding: unicode
-  database: gulch1_production
+  database: d9n1ovhbdq4a0r
   pool: 5
-  username: 
-  password: 
+  username: kmreekxclvnwaa
+  password: 0Weqy7Mkkm_8wjuYfayiv7-AQo
